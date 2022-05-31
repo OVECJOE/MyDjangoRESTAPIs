@@ -1,2 +1,1 @@
-# MyDjangoRESTAPIs
-# MyDjangoRESTAPIs
+# My Django REST APIs
